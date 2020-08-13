@@ -6,11 +6,11 @@ Also created a model to predict student performance.
 Requirement:
 knowledege on python and especially familiar with Python's Library
 knowledge about classification problem
-knowledge anout Decision Trees , Entropy and Information gain
+knowledge about Decision Trees , Entropy and Information gain
 datasets handling in python
 
 platform:
-Any python workshop i prefer Jupyter Notebook
+Any python framework i prefer Jupyter Notebook
 
 Explanation:
 we're going to use decision trees to predict student performance using the
